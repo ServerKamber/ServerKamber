@@ -14,6 +14,7 @@
 ### Projeler
 
 - **[The Hollow Keep](https://github.com/ServerKamber/hollow-keep)**: Tek dosyalık, hiç görsel ya da ses dosyası kullanmayan, tarayıcıda çalışan birinci şahıs aksiyon oyunu. Müzik, ses ve dokular kodda üretiliyor (Three.js, Web Audio). **[▶ Oyna](https://hollo-keeper.vercel.app)**
+- **[AI Dungeon Master](https://github.com/ServerKamber/ai-dungeon-master)**: Türkçe D&D 5e oyunu. Birden fazla yapay zekâ ajanı Zindan Efendisi'ni ve yoldaşları oynuyor; zar, hasar ve kurallar kodda hesaplanıyor. Kapalı beta (Next.js, TypeScript).
 
 ### Teknolojiler
 
